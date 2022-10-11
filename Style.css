@@ -116,7 +116,7 @@ section {
 }
 
 #hyperlink > a:first-of-type:hover {
-  color: black;
+  color: #e67e22;
   background: white;
 }
 
@@ -132,8 +132,7 @@ section {
 }
 
 .learn-more:hover {
-  background-color: #fdf2e9;
-
+  background-color: white;
   color: #e67e22;
 }
 
