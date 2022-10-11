@@ -117,6 +117,7 @@ section {
 
 #hyperlink > a:first-of-type:hover {
   color: black;
+  background: white;
 }
 
 .learn-more {
