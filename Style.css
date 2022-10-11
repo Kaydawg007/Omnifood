@@ -436,8 +436,7 @@ img.usa-today {
 }
 
 .img img:hover {
-  width: 160px;
-  height: 160px;
+  scale:1.2;
 }
 
 /* #gallery img:hover {
